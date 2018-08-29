@@ -4,7 +4,6 @@ public class User {
 	private Long uid;
 	private String uname;
 	private String upassword;
-	private String buffer;
 	public Long getUid() {
 		return uid;
 	}
